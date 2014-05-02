@@ -1,4 +1,4 @@
-lab03_jasenmh
-=============
+CS130E-S14-Labs
+===============
 
-lab03 for Jasen Hall
+labs for CS130E-S14
